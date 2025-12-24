@@ -1,0 +1,7 @@
+{
+  "name": "Arix Signature Interactive Christmas Tree",
+  "description": "A high-fidelity 3D interactive experience featuring a luxurious emerald and gold Christmas tree that explodes and reassembles using physics-based particle systems.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
